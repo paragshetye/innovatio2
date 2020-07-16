@@ -38,6 +38,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "google-analytics": "",
     "uniqCompNum": 60,
     "versionPublish": "4.9.7"
   },
